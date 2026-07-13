@@ -25,7 +25,7 @@ All configuration is documented below with comments.
 </p>
 
 <p align="center">
-  <strong>Computer Science Engineering Student @ Parul University | India</strong>
+  <strong>Computer Science Engineering Student @ Parul University | Vadodara, Gujarat, India</strong>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ All configuration is documented below with comments.
 I am a passionate **Computer Science Engineering student** currently studying at **Parul University**, India. My goal is to build secure, scalable, and highly performant applications while solving complex real-world problems.
 
 - 🔭 I’m currently building backend microservices and refining my web architectures.
-- 🌱 I’m currently focused on **Data Structures & Algorithms (DSA)**, **Java Backend Development**, and **System Design**.
+- 🌱 I’m currently focused on **Data Structures & Algorithms (DSA)**, **Backend Development**, and **System Design**.
 - 💬 Ask me about **Java, Spring Boot, MySQL**, or anything related to backend architecture.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/hardev-jagani) or shoot an [Email](mailto:hardevjagani@gmail.com).
 - 🚀 Fun fact: I love breaking down complex systems into smaller, understandable building blocks.
@@ -117,15 +117,15 @@ I am a passionate **Computer Science Engineering student** currently studying at
       <p>
         <code>Spring Boot</code> <code>React</code> <code>MySQL</code> <code>REST API</code>
       </p>
-      <a href="https://github.com/Hardev683/Lumiere" target="_blank">📂 Repository</a> &nbsp;|&nbsp; <a href="#" target="_blank">🌐 Live Demo</a>
+      <a href="https://github.com/Hardev683/Lumiere" target="_blank">📂 Repository</a> &nbsp;|&nbsp; <a href="#" target="https://github.com/Hardev683/Lumiere">🌐 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 Project Placeholder I (Your Next Big App)</h4>
-      <p>A template for your upcoming project. Write about its core feature, target users, and what makes it special. Keep building your ideas!</p>
+      <h4>🚀 Beauty Bliss</h4>
+      <p>A full stack web development project for e-commerce beauty product, garments and fashions with modern UI with fully responsive layout</p>
       <p>
-        <code>Java</code> <code>Apache Kafka</code> <code>MongoDB</code>
+        <code>HTML/CSS</code> <code>Node.js</code> <code>MongoDB</code> <code>REST API</code>
       </p>
-      <a href="https://github.com/Hardev683" target="_blank">📂 Repository</a> &nbsp;|&nbsp; <a href="#" target="_blank">🌐 Live Demo</a>
+      <a href="https://github.com/Hardev683" target="_blank">📂 Repository</a> &nbsp;|&nbsp; <a href="#" target="https://github.com/Hardev683/beauty-bliss">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
