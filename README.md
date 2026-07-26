@@ -44,7 +44,7 @@ All configuration is documented below with comments.
 <p align="center">
   <!-- GitHub Trophies card -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -189,7 +189,7 @@ I am a passionate **Computer Science Engineering student** currently studying at
       <ul>
         <li>[ ] Secure a Software Engineering internship/full-time position.</li>
         <li>[ ] Build and deploy a system utilising event-driven microservices with Kafka.</li>
-        <li>[ ] Solve 500+ problems on LeetCode using Java and Python.</li>
+        <li>[ ] Solve 150+ problems on LeetCode using Java and Python.</li>
         <li>[ ] Make meaningful contributions to open-source software libraries.</li>
       </ul>
     </td>
