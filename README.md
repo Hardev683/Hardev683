@@ -44,7 +44,7 @@ All configuration is documented below with comments.
 <p align="center">
   <!-- GitHub Trophies card -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hardev683&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
   </a>
 </p>
 
